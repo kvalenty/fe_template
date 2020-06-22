@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["sum","a","b"],"mappings":";AAAA,IAAMA,EAAM,SAACC,EAAGC,GAAMD,OAAAA,EAAIC,GAE1BF,EAAI,EAAG","file":"main.497c6204.js","sourceRoot":"../src","sourcesContent":["const sum = (a, b) => a + b;\n\nsum(1, 3);\n"]}
